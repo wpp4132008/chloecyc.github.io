@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chloecyc.com" resolutions="1x,2x" timestamp="1554981606982">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chloecyc.com" resolutions="1x,2x" timestamp="1554982153635">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="269956852" ref="index"/>
+    <file name="index.css" crc="4084371156" ref="index"/>
     <file name="123.css" crc="302584088" ref="123"/>
   </folder>
   <folder name="scripts">
@@ -119,5 +119,5 @@
     </file>
   </folder>
   <file name="123.html" crc="4251131516" seo="true" mt="1554981543243" redirect="false"/>
-  <file name="index.html" crc="532200728" seo="true" mt="1554981543231" redirect="true"/>
+  <file name="index.html" crc="4065579215" seo="true" mt="1554982142465" redirect="true"/>
 </manifest>
