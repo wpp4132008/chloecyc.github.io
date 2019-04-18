@@ -1,16 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chloecyc.com" resolutions="1x,2x" timestamp="1554982153635">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://wpp4132008.github.io" resolutions="1x,2x" timestamp="1555578506346">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4084371156" ref="index"/>
-    <file name="123.css" crc="302584088" ref="123"/>
+    <file name="index.css" crc="3816405326" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="123:index"/>
-    <file name="museutils.js" crc="3803043152" ref="123:index"/>
-    <file name="whatinput.js" crc="86476730" ref="123:index"/>
-    <file name="museconfig.js" crc="380897831" ref="123:index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="123:index"/>
-    <file name="require.js" crc="4157109226" ref="123:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
@@ -117,7 +116,49 @@
     <file name="modeling_2x.jpg" crc="3771402282" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="messageaholic-favicon.ico" crc="277215207" ref="index"/>
+    <file name="sentence.png" crc="484666070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sentence_2x.png" crc="484666070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon01.png" crc="4141418189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon01_2x.png" crc="4228849775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon02.png" crc="214276252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon02_2x.png" crc="124556243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon03.png" crc="387655725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon03_2x.png" crc="3849501354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon04.png" crc="403358029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon04_2x.png" crc="3820164911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon05.png" crc="172284081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon05_2x.png" crc="358938809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon07.png" crc="4108496646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon07_2x.png" crc="4192837841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="123.html" crc="4251131516" seo="true" mt="1554981543243" redirect="false"/>
-  <file name="index.html" crc="4065579215" seo="true" mt="1554982142465" redirect="true"/>
+  <file name="index.html" crc="306976006" seo="true" mt="1555525172644" redirect="true"/>
 </manifest>
